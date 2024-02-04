@@ -10,7 +10,7 @@ Before running the project, ensure you have Node.js and npm installed on your ma
 ## Getting Started
 Clone the repository:
 
-`git clone https://github.com/votre-utilisateur/nom-du-projet.git`
+`git clone https://github.com/zinmori/tic-tac-toe.git`
 
 Navigate to the project directory and Install dependencies:
 
