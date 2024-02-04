@@ -20,4 +20,4 @@ Run the project:
 
 `npm run dev`
 
-Open your browser and visit http://localhost:3000 to play the Tic Tac Toe game.
+Open your browser and visit http://localhost:5173 to play the Tic Tac Toe game.
